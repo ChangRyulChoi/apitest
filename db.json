@@ -1,12 +1,6 @@
-[{
-	"chain_id": "owdin-test-1",
-	"reserve_denom": {
-		"origin": "uowdin",
-		"display_name": "owdin"
-	},
-	"list": [{
-		"lcd": "https://chain-test-001.owdin.network/",
-		"node": "chain-test-001.owdin.network:26657",
-		"name": "Owdin"
-	}]
-}]
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
