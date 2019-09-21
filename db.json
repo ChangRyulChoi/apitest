@@ -1,0 +1,16 @@
+[
+	{
+		"chain_id": “owdin-test-1”,
+		"reserve_denom": {
+			"origin": "uowdin”,
+			"display_name": “owdin”
+		},
+		"list": [
+			{
+				"lcd": "https://chain-test-001.owdin.network/",
+				"node": "chain-test-001.owdin.network:26657",
+				"name": “OWDIN”
+			}
+		]
+	}
+]
