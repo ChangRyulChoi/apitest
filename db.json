@@ -1,11 +1,21 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{
+		"chain_id": "cosmoshub-2",
+		"reserve_denom": {
+			"origin": "uatom",
+			"display_name": "atom"
+		},
+		"list": [
+			{
+				"lcd": "https://lcd.owdin.network",
+				"node": "lcd.owdin.network:26657",
+				"name": "Owdin"
+			},
+			{
+				"lcd": "https://lunamint.network",
+				"node": "lunamint.network:26657",
+				"name": "Lunamint"
+			}
+		]
+	}
+]
