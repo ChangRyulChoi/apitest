@@ -1,20 +1,15 @@
 [
 	{
-		"chain_id": "cosmoshub-2",
+		"chain_id": "owdin-test-1",
 		"reserve_denom": {
 			"origin": "uatom",
-			"display_name": "atom"
+			"display_name": "owdin"
 		},
 		"list": [
 			{
-				"lcd": "https://lcd.owdin.network",
-				"node": "lcd.owdin.network:26657",
-				"name": "Owdin"
-			},
-			{
-				"lcd": "https://lunamint.network",
-				"node": "lunamint.network:26657",
-				"name": "Lunamint"
+				"lcd": "https://chain-test-001.owdin.network/",
+				"node": "chain-test-001.owdin.network:26657",
+				"name": "OWDIN"
 			}
 		]
 	}
